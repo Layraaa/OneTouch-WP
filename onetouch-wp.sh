@@ -14,6 +14,8 @@ echo "| (_) | | | |  __/ || (_) | |_| | (__| | | |_____\ V  V /| |_) |"
 echo " \___/|_| |_|\___|\__\___/ \____|\___|_| |_|      \_/\_/ | .__/ "
 echo "                                                         |_|    "
 echo ""
+echo "Creado por @Japinper y @Layraaa"
+echo ""
 
 read -p "¿Deseas instalar un servidor local con Wordpress en tu máquina (Y/N)?" elegir
 
