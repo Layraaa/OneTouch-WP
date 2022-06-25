@@ -11,3 +11,10 @@ Si ya hay algo instalado previamente es posible que no se instale correctamente 
 
 Testeado en:
 - Debian 10
+
+Instrucciones de uso:
+
+git clone https://github.com/Layraaa/OneTouch-WP<br>
+cd OneTouch-WP<br>
+chmod +x onetouch-wp.sh<br>
+bash onetouch-wp.sh
